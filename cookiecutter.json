@@ -4,5 +4,5 @@
     "output": "",
     "partition": "",
     "profile_name": "slurm",
-    "submit_script": ["slurm-submit.py", "slurm-submit-advanced.py"]
+    "submit_script": ["slurm-submit.py", "slurm-submit-immediate.py", "slurm-submit-advanced.py"]
 }
